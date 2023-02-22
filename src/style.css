@@ -28,6 +28,7 @@
 
 .navbar-brand {
     font-size: 2rem !important;
+    font-family: 'Josefin Sans', sans-serif !important; 
 }
 
 .nav-link {
